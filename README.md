@@ -1,16 +1,21 @@
-# weather_clean_app
+# 🌤️ Weather Clean Architecture App
 
-A new Flutter project.
+A professional Flutter weather application showcasing modern development practices, Clean Architecture, and advanced state management.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-3.19-blue)
+![Dart](https://img.shields.io/badge/Dart-3.0-blue)
+![Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-green)
+![State Management](https://img.shields.io/badge/State%20Management-BLoC-purple)
 
-This project is a starting point for a Flutter application.
+## 🎯 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **🌍 Current Weather** by city name or GPS location
+- **🏗️ Clean Architecture** with clear separation of concerns
+- **📱 Responsive UI** with smooth animations
+- **🔄 Bloc State Management** for predictable state
+- **🌐 REST API Integration** with OpenWeatherMap
+- **📍 Location Services** using geolocator
+- **📶 Network Connectivity** handling
+- **🎨 Modern Material Design** with custom animations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏗️ Architecture
