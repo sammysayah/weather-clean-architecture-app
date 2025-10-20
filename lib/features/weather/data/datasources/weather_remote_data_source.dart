@@ -13,7 +13,7 @@ class WeatherRemoteDataSourceImpl implements WeatherRemoteDataSource {
   final http.Client client;
   static const String _baseUrl = 'api.openweathermap.org';
   static const String _apiKey =
-      '47f6f5ef7983b49070e05128c06b1432'; // Get from https://openweathermap.org/
+      'WEATHER_API_KEY'; // Get from https://openweathermap.org/
 
   WeatherRemoteDataSourceImpl({required this.client});
 
